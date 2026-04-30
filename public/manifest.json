@@ -1,0 +1,22 @@
+{
+    "name": "AutoAvisa",
+    "short_name": "AutoAvisa",
+    "description": "Gestión de avisos de mantenimiento para talleres",
+    "start_url": "/dashboard",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#0f172a",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "/logo-autoavisa.jpg",
+            "sizes": "192x192",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "/logo-autoavisa.jpg",
+            "sizes": "512x512",
+            "type": "image/jpeg"
+        }
+    ]
+}
